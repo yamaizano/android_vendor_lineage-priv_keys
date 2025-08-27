@@ -1,8 +1,8 @@
 # Ignore keys
-*.pem
-*.pk8
-*.avbpubkey
-*.pubkey
+# *.pem
+# *.pk8
+# *.avbpubkey
+# *.pubkey
 
 ## TEST Cases ##
 .android-certs
